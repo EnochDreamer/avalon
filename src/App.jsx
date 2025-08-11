@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="sm:h-screen w-screen">
       <div className="grid grid-rows-[50px_1fr] gap-1.5 bg-color2 w-full h-fit sm:h-screen">
-        <header className="text-center col-span-1 bg-white p-1 text-2xl font-bold text-gray-800 shadow-md">
+        <header className=" text-center col-span-1 bg-white p-1 text-2xl font-bold text-gray-800 shadow-md">
           <Header />
         </header>
 
