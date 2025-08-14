@@ -14,7 +14,7 @@ function App() {
         <header className="fixed top-0 left-0 w-full z-50 text-center bg-white p-1 text-2xl font-bold text-gray-800 shadow-md">
           <Header />
         </header>
-        <div className="pt-[50px] h-[calc(100vh-50px)]">
+        <div className="pt-[50px] sm:h-[calc(100vh)]">
           <main className="flex flex-col gap-3 sm:justify-around sm:flex-row h-full">
             <div className="flex-1 h-full">
               <FirstHero />
