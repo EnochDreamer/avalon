@@ -127,7 +127,7 @@
 
 @layer components{
     .card{
-        @apply flex flex-col bg-color2 p-1 absolute z-20 top-7 right-1 rounded-md shadow-md ;
+        @apply flex flex-col bg-color2 p-1 absolute z-30 top-7 right-1 rounded-md shadow-md ;
     }
     .close-icon-wrapper{
         @apply font-bold text-color4 text-2xl flex self-end;

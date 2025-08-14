@@ -11,7 +11,7 @@ function MiniMenu({ text1, text2, cent }) {
         })
     }
     return (
-        <div className='relative transition-transform duration-300 ease-in-out hover:scale-102'>
+        <div className='relative '>
             <div className=' rounded-sm p-3 h-25 w-80  grid grid-flow-col bg-white grid-cols-[3fr_1fr] grid-rows-2'>
                 <div className='font-bold text-color3'>{text1}</div>
                 <div className='font-bold text-2xl'>{text2}</div>
